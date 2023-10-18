@@ -4,7 +4,7 @@ const Header = () => {
         <nav className="navbar navbar-expand-lg bg-body-tertiary">
           <div className="container-fluid">
             <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer">
-              <img src="https://www.svgrepo.com/show/303106/mcdonald-s-15-logo.svg" alt="React" />
+              <img src="https://www.svgrepo.com/show/69341/apple-logo.svg" alt="React" width="100" height="100" />
             </a>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
